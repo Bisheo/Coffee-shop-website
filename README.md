@@ -14,3 +14,5 @@ Contact Us: Providing location, working hours, and a contact form for inquiries.
 Bootstrap is used to ensure the site is mobile-friendly, with smooth navigation, buttons, and grids for an organized layout.
 
 CSS adds custom styling, making the website aesthetically pleasing, while HTML structures the content efficiently. 
+
+![Coffe 1](https://github.com/user-attachments/assets/9262613b-49e0-4b3f-a903-298a82a1ee95)
